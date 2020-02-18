@@ -1,0 +1,7 @@
+{
+  "utterance": "lock screen",
+  "intent_type": "LockScreenIntent",
+  "intent": {
+    "LockScreenKeyword": "lock screen"
+  }
+}

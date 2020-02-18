@@ -1,0 +1,2 @@
+(cancel | clear | remove | erase| delete) (my | the | ) {time} alarm.
+(cancel | clear | remove | erase| delete) (my | the | ) alarm (at|for) {time}.

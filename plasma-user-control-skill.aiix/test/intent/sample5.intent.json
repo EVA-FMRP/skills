@@ -1,0 +1,7 @@
+{
+  "utterance": "decrease brightness",
+  "intent_type": "DecreaseBrightnessKeywordIntent",
+  "intent": {
+    "InternalDecreaseBrightnessDesktopKeyword": "decrease brightness"
+  }
+}

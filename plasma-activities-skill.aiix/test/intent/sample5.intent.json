@@ -1,0 +1,7 @@
+{
+  "utterance": "switch to activity",
+  "intent_type": "SwitchActivitiesIntent",
+  "intent": {
+    "ActivitiesSwitchKeyword": "switch to activity"
+  }
+}

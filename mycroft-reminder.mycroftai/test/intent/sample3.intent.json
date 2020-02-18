@@ -1,0 +1,8 @@
+{
+  "utterance": "remind me to wake up tomorrow morning",
+  "intent_type": "ReminderSkillCreateIntent",
+  "intent": {
+    "ReminderSkillCreateVerb": "remind me"
+  },
+  "expected_dialog": "schedule.create"
+}

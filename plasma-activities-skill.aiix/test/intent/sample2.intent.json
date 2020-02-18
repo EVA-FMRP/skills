@@ -1,0 +1,7 @@
+{
+  "utterance": "show activities",
+  "intent_type": "ShowActivitiesIntent",
+  "intent": {
+    "ActivitiesShowKeyword": "show activities"
+  }
+}

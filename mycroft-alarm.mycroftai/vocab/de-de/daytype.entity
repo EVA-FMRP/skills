@@ -1,0 +1,4 @@
+(tag | Wochentag | Wochentage | Wochenende | Wochenenden | morgen | heute)
+(montag | montage | dienstag | dienstage | mittwoch | mitwoche | donnerstag | donnerstage | freitag | freitage | samstag | samstage | sonntag | sonntage)
+(montag | montage | dienstag | dienstage | mittwoch | mitwoche | donnerstag | donnerstage | freitag | freitage | samstag | samstage | sonntag | sonntage) and (montag | montage | dienstag | dienstage | mittwoch | mitwoche | donnerstag | donnerstage | freitag | freitage | samstag | samstage | sonntag | sonntage)
+(montag | montage | dienstag | dienstage | mittwoch | mitwoche | donnerstag | donnerstage | freitag | freitage | samstag | samstage | sonntag | sonntage) (montag | montage | dienstag | dienstage | mittwoch | mitwoche | donnerstag | donnerstage | freitag | freitage | samstag | samstage | sonntag | sonntage)

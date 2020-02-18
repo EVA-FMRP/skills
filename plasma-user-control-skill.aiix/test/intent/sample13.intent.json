@@ -1,0 +1,7 @@
+{
+  "utterance": "clear clipboard",
+  "intent_type": "ClearKlipperKeywordIntent",
+  "intent": {
+    "InternalClearKlipperKeyword": "clear clipboard"
+  }
+}
