@@ -1,0 +1,3 @@
+[submodule "hello-ava"]
+	path = hello-ava
+	url = git@github.com:rafaeldefazio/hello-ava-skill.git
