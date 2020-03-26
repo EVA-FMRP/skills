@@ -1,0 +1,31 @@
+{
+    "name": "Movie Master",
+    "skillMetadata": {
+        "sections": [
+	    {
+		"name": "Configuration",
+		"fields": [
+		    {
+				"type": "label",
+				"label": "This skill uses a default API key.  If you experience overloading of this skill, you may enter your own here"
+					},
+			{
+				"name": "apiv3",
+				"type": "text",
+				"label": "API_V3 key",
+				"value": "Default"
+		    		},
+			{
+				"type": "label",
+				"label": "The Search Depth is the default number of items returned on a search."
+					},
+			{
+				"name": "searchDepth",
+				"type": "number",
+				"value": "5"
+		    		}
+		]
+	    }
+        ]
+    }
+}

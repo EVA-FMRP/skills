@@ -1,0 +1,3 @@
+(?P<Action>allume|éteins|commute) (?P<Entity>.*)
+(?P<Action>allume|éteins|commute) (?P<Entity>tous les|toutes les) (?P<Domain>interrupteur(s)?|lumière(s)?|(boolean )?input(s)?)
+((tourne|mets|commute) )?(?P<Entity>.*) (?P<Action>en marche|on|en arrêt|off)

@@ -1,0 +1,7 @@
+{
+    "intent": {
+        "subject": "Lincoln"
+    },
+    "intent_type": "specific.intent",
+    "utterance": "I need a quote from Lincoln"
+}

@@ -1,0 +1,4 @@
+Ursäkta, jag kan inte hitta Home Assistant enheten "{{dev_name}}".
+Enheten "{{dev_name}}" kunde inte hittas.
+Hittade tyvärr inte enheten "{{dev_name}}".
+Ursäkta, jag hittade inte "{{dev_name}}".

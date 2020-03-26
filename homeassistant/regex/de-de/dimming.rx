@@ -1,0 +1,2 @@
+(setze) (?:brightness of )?(?P<Entity>.*) (auf) (?P<BrightnessValue>\d*)(?: percent)?
+(dimme|erhelle|erhöhe|reduziere) (?:brightness of )?(?P<Entity>.*?) (?:by)? (?P<BrightnessValue>\d*)?(?: percent)?

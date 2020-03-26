@@ -1,0 +1,3 @@
+(?P<Action>enciende|apaga|conmuta) (?P<Entity>.*)
+(?P<Action>enciende|apaga|conmuta) (?P<Entity>en todos|en cada|en cualquier) (?P<Domain>interruptor(es)?|(luz|luces)?|(boolean )?entrada(s)?)
+((deja) )?(?P<Entity>.*) (?P<Action>encendida|apagada)

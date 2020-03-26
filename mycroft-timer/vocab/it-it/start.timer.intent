@@ -1,0 +1,12 @@
+(Inizia|Setta|Crea|Ho bisogno|Dammi) (di un|un|un altro|un secondo|) timer
+(Inizia|Setta|Crea|Ho bisogno|Dammi) (di un|un|un altro|un secondo|) (##-secondi|##-ore|##-minuti) timer.
+(Inizia|Setta|Crea|Ho bisogno|Dammi) (di un|un|un altro|un secondo|) (##-secondi|##-ore|##-minuti) timer (chiamato|nominato|per) {name}.
+(Inizia|Setta|Crea|Ho bisogno|Dammi) (di un|un|un altro|un secondo|) {duration} timer.
+(Inizia|Setta|Crea|Ho bisogno|Dammi) (di un|un|un altro|un secondo|) {duration} timer (chiamato|nominato|per) {name}.
+(Inizia|Setta|Crea|Ho bisogno|Dammi) (di un|un|un altro|un secondo|) timer {duration}.
+Timer (per| ) {duration}.
+Timer da {duration} (chiamato|per) {name}.
+{duration} timer.
+{duration} timer (chiamato|per) {name}.
+Conta {duration} per me.
+Dammi {duration} di tempo per me.

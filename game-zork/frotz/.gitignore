@@ -1,0 +1,14 @@
+frotz
+dfrotz
+*.o
+*.O
+*.OBJ
+*.BAK
+*.SWP
+*.DSK
+*.EXE
+*.LIB
+*.a
+src/*/defines.h
+src/common/git_hash.h
+*.z?

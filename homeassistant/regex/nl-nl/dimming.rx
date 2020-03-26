@@ -1,0 +1,2 @@
+(zet) (?:helderheid van)?(?P<Entity>.*) (op) (?P<BrightnessValue>\d*)(?: procent)?
+(verduister|verhelder|verhoog|verlaag) (?:helderheid van)?(?P<Entity>.*?) (?:met)? (?P<BrightnessValue>\d*)?(?: procent)?

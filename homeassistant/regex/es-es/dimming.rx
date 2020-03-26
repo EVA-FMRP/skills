@@ -1,0 +1,2 @@
+(pon el) (?:brillo de)?(?P<Entity>.*) (a|al) (?P<BrightnessValue>\d*)(?: por ciento)?
+(oscurece|ilumina|aumenta|disminuye) (?:el brillo de )?(?P<Entity>.*?) (?:al)? (?P<BrightnessValue>\d*)?(?: por ciento)?

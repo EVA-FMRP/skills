@@ -1,0 +1,8 @@
+{
+    "expected_dialog": "multiple.result",
+    "intent": {
+        "count": "3"
+    },
+    "intent_type": "NormalDice.intent",
+    "utterance": "roll 3 dice"
+}

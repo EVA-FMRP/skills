@@ -1,0 +1,5 @@
+{
+   "utterance": "cut up say test 1",
+   "intent_type": "CutUpSay",
+   "responses": ["test 1", "1 test"]
+}

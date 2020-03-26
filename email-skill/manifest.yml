@@ -1,0 +1,6 @@
+dependencies:
+  # Pip dependencies on PyPI
+  python:
+    - inflect
+    - pyyaml
+

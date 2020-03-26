@@ -1,0 +1,3 @@
+[submodule "brion-pysin"]
+	path = brion-pysin
+	url = https://github.com/JonStratton/brion-pysin.git

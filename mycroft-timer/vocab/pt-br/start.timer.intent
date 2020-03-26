@@ -1,0 +1,12 @@
+(Começa|Cria|Inicia|Comece|Crie|Inicie|Começar|Criar|Iniciar) (um|outro|um segundo) temporizador
+(Começa|Cria|Inicia|Comece|Crie|Inicie|Começar|Criar|Iniciar) (um|outro|um segundo) temporizador em (##-segundo|##-hora|##-minuto)
+(Começa|Cria|Inicia|Comece|Crie|Inicie|Começar|Criar|Iniciar) (um|outro|um segundo) temporizador em (##-segundo|##-hora|##-minuto) (chamado|com nome|de nome) {name}.
+(Começa|Cria|Inicia|Comece|Crie|Inicie|Começar|Criar|Iniciar) (um|outro|um segundo) temporizador de {duration}
+(Começa|Cria|Inicia|Comece|Crie|Inicie|Começar|Criar|Iniciar) (um|outro|um segundo) temporizador de {duration} (chamado|com nome|de nome) {name}.
+(Começa|Cria|Inicia|Comece|Crie|Inicie|Começar|Criar|Iniciar) (um|outro|um segundo) temporizador de {duration}
+Temporizador de {duration} (de duração|).
+Temporizador de {duration} (chamado|de nome|com nome|para) {name}.
+Temporizador de {duration}.
+temporizador de {duration} (chamado|de nome|com nome|para) {name}.
+Conte {duration}.
+Me avisar em {duration}.

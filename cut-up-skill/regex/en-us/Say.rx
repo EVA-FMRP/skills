@@ -1,0 +1,2 @@
+cut up say (?P<Say>.*)
+randomize say (?P<Say>.*)

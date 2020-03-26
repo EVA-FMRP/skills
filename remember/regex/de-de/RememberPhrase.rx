@@ -1,0 +1,2 @@
+(Phrase) (?P<RememberPhrase>.*)
+(Phrasen) (?P<RememberPhrase>.*)

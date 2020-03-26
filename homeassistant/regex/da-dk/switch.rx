@@ -1,0 +1,3 @@
+((slå|sæt) )?(?P<Action>tændt|slukketf|skift) (?P<Entity>.*)
+((slå|sæt) )?(?P<Action>tændt|slukket|skift) (?P<Entity>alle|allesammen|hvilkensomhelst) (?P<Domain>kontakt(r)?|lys?|(boolean )?indput?)
+((slå | sæt) )?(?P<Entity>.*) (?P<Action> tændt| slukket)

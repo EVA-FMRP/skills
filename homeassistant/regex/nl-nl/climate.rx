@@ -1,0 +1,1 @@
+(zet) (?P<Entity>.*) thermostaat op (?P<temp>[0-9]*)

@@ -1,0 +1,4 @@
+{
+  "utterance": "turn on party",
+  "expected_dialog": "homeassistant.device.unknown"
+}

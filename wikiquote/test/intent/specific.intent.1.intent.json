@@ -1,0 +1,8 @@
+{
+    "expected_dialog": "notfound",
+    "intent": {
+        "subject": "Gollygoops"
+    },
+    "intent_type": "specific.intent",
+    "utterance": "tell me a Gollygoops quote"
+}

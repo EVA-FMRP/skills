@@ -1,0 +1,1 @@
+(set) o termostato (?P<Entity>.*) para (?P<temp>[0-9]*)

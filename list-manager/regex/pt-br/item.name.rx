@@ -1,0 +1,1 @@
+(adicionar|criar|apagar) (?P<item_name>.*) (em|da|na) (minha)

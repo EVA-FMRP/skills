@@ -1,0 +1,3 @@
+((Trocar|alternar))? (? P <Action> Ligar|Desligar|Alternar) (? P <Entity>. *)
+((trocar|interruptor) )?(?P<Action>Ligar|desligar|Alternar) (?P<Entity>todos | todos | algum(?P<Domain>interruptor(es)?|luzes(s)?|(boolean )?entrada(s)?)
+((Trocar| alternar))? (? P <Entity>. *) (? P <Action> Ligar | Desligar)

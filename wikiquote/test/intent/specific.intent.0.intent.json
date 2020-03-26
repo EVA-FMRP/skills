@@ -1,0 +1,7 @@
+{
+    "intent": {
+        "subject": "buddhist"
+    },
+    "intent_type": "specific.intent",
+    "utterance": "I need some buddhist wisdom"
+}

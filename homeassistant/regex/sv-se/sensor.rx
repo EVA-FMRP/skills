@@ -1,0 +1,10 @@
+(i )?(vilken|vilket) (status|värde) (är|har) (?P<Entity>.*)
+(hur är|vad är) den (nuvarande )?(status|tillstånd|värde|sensor) (på )?(?P<Entity>.*)
+tala om för mig (den|vår) (nuvarande )?(status|tillstånd|värde|sensor) på (den )?(?P<Entity>.*)
+läs (upp )?(den )?((status|tillstånd|värde|sensor) (på )?)?(?P<Entity>.*)
+läs (upp )?(den )?(?P<Entity>.*) (status|tillstånd|värde|sensor)
+(hur|vad) är (den nuvarande )?(?P<Entity>.*) (statusen|tillståndet|värdet|sensorn)
+tala om för mig (den|vår) (nuvarande )?(?P<Entity>.*) (statusen|tillståndet|värdet|sensoren)
+(status|värde|sensor) (?P<Entity>.*)
+ge mig värdet för (?P<Entity>.*)
+vad har termostaten (?P<Entity>.*) för värde

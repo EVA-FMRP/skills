@@ -1,0 +1,7 @@
+{
+  "utterance": "invoke test",
+  "intent_type": "ReleaseIntent",
+  "intent": {
+    "ReleaseKeyword": "invoke test"
+  }
+}

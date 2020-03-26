@@ -1,0 +1,3 @@
+(() )?(?P<Action>accendi|spegni|commuta|scambia) (?P<Entity>.*)
+(() )?(?P<Action>accendi|spegni|commuta|scambia) (?P<Entity>tutti|ogni|qualsiasi) (?P<Domain>interruttore|interruttori?|luce|luci?|(booleano )?input(s)?)
+(() )?(?P<Entity>.*) (?P<Action>accesa|spenta)

@@ -1,0 +1,4 @@
+{
+  "utterance": "where is the location of party",
+  "expected_dialog": "homeassistant.device.unknown"
+}

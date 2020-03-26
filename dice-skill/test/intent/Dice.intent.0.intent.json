@@ -1,0 +1,9 @@
+{
+    "expected_dialog": "single.result",
+    "intent": {
+        "count": "a",
+        "type": "6"
+    },
+    "intent_type": "Dice.intent",
+    "utterance": "roll a d6"
+}

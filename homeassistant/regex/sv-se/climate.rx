@@ -1,0 +1,1 @@
+sätt termostaten (?P<Entity>.*) till (?P<temp>[0-9]*)

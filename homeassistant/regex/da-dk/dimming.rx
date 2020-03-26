@@ -1,0 +1,2 @@
+(sæt) (?:lysstyrke på )?(?P<Entity>.*) (til) (?P<BrightnessValue>\d*)(?: percent)?
+(dæmp|øg|forøg) (?:lysstyrke af)?(?P<Entity>.*?) (?:med)? (?P<BrightnessValue>\d*)?(?: percent)?

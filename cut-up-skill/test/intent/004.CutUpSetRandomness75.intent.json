@@ -1,0 +1,5 @@
+{
+   "utterance": "cut up set randomness 75",
+   "intent_type": "CutUpSetRandomness",
+   "responses": ["Randomness set to 75.0 percent."]
+}

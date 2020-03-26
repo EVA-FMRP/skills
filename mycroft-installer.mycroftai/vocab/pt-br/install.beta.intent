@@ -1,3 +1,0 @@
-install {skill} (version|) beta.
-install beta (version|of|) {skill}.
-install version beta of {skill}.

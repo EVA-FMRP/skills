@@ -1,0 +1,2 @@
+versnipper zeg (?P<Say>.*)
+verhaspel zeg (?P<Say>.*)

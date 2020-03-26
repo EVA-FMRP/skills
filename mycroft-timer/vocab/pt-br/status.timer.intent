@@ -1,0 +1,13 @@
+(Diga-me|) quanto (tempo|) falta em (todos|cada um|) (os|dos|) (temporizador|temporizadores de {duration})
+(Diga-me|) quanto (tempo|) (falta|queda) em los temporizadores?
+(Diga-me|) quanto (tempo|queda|) falta?
+(Diga-me|) (o estado|os estados) (do|dos) (temporizador|temporizadores)
+(Diga-me|) (o estado|os estados) (do|dos) (temporizador|temporizadores)
+(Diga-me|) (o estado|os estados) (do|dos) (temporizador|temporizadores) de {duration}
+(qual é|) (o|) tempo restante (de|do) (temporizador de {duration}|temporizadores de {duration})
+(qual é|) (o|) tempo restante
+listar (todos os|) temporizadores
+há algum temporizador (ativo|sendo executado|)?
+(tenho|tem) algum temporizador (activo|sendo executado)?
+quando (acaba|acabam) (os|meus|seus|o|meu|teu|) (temporizador|temporizadores)
+quantos temporizadores

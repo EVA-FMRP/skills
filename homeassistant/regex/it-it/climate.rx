@@ -1,0 +1,1 @@
+(imposta) (?P<Entity>.*) termostato a (?P<temp>[0-9]*)

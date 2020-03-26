@@ -1,0 +1,3 @@
+((drehe|schalte) )?(?P<Action>an|aus|um) (?P<Entity>.*)
+((drehe|schalte) )?(?P<Action>an|aus|um) (?P<Entity>alle|jeden) (?P<Domain>Schalter?|Lampe(n)?|(boolean )?Eingang)
+((schalte) )?(?P<Entity>.*) (?P<Action>an|aus)

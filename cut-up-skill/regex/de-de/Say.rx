@@ -1,0 +1,2 @@
+zerschneide sage (?P<Say>.*)
+sage zufällig (?P<Say>.*)

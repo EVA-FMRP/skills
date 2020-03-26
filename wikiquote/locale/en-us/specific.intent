@@ -1,0 +1,6 @@
+tell me (some|a|an) {subject} (quote|wisdom)
+give me (some|a|an) {subject} (quote|wisdom)
+I need some {subject} (quote|wisdom)
+tell me a quote (from|about) {subject}
+give me a quote (from|about) {subject}
+I need a quote (from|about) {subject}

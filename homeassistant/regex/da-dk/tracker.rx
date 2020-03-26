@@ -1,0 +1,2 @@
+(hvor er | (hvad er (den)?)?placering af) (?P<Entity>.*)
+(?P<Entity>.*) Placering

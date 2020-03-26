@@ -1,0 +1,102 @@
+<html lang="en-US">
+<head>
+   <title>Brion Pysin</title>
+   <meta charset="utf-8">
+   <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+</head>
+
+<body>
+<table><form id="brion_pysin_form" action="brion_pysin_json.cgi" method="post">
+
+<tr>
+   <td>
+      <label for="frag_type">Fragment Type:</label>
+   </td><td>
+      <select id="frag_type" name="frag_type">
+         <option value="char">Character</option>
+         <option value="word" selected="selected">Word</option>
+         <option value="sent">Sentence</option>
+         <option value="line">Line</option>
+      </select>
+   </td>
+</tr>
+
+<tr>
+   <td>
+      <label for="min_chunk">Minimum Chunk Size:</label>
+   </td><td>
+      <input type="number" id="min_chunk" name="min_chunk" value="1" />
+   </td>
+</tr>
+
+</tr>
+   <td>
+      <label for="max_chunk">Maximium Chunk Size:</label>
+   </td><td>
+      <input type="number" id="max_chunk" name="max_chunk" value="3" />
+   </td>
+</tr>
+
+</tr>
+   <td>
+      <label for="randomness">Chance of Randomness:</label>
+   </td><td>
+      <input type="range" id="randomness" name="randomness" min=0 max=100 value=75 />
+   </td>
+</tr>
+
+</tr>
+   <td>
+      <label for="in_string">Source Text:</label>
+   </td><td>
+      <textarea id="in_string" name="in_string" rows=20 cols=80 wrap="virtual"></textarea>
+   </td>
+</tr>
+
+</tr>
+   <td></td>
+   <td>
+      <input id="brion_pysin_form_submit" type="submit">
+      <input type="reset">
+   </td>
+</tr>
+
+</form></table>
+</body>
+
+<script type="text/javascript">
+
+$(document).ready(function(){
+
+   $('#brion_pysin_form').submit(function(event){
+      $('#brion_pysin_form_submit').prop('disabled',true);
+      event.preventDefault();
+      var post_url = $(this).attr('action');
+      var request_method = $(this).attr('method');
+      var form_data = {
+         frag_type:  $('#frag_type').val(),
+         min_chunk:  $('#min_chunk').val(),
+         max_chunk:  $('#max_chunk').val(),
+         randomness: $('#randomness').val(),
+         in_string:  $('#in_string').val()
+      };
+      $.ajax({
+         url : post_url,
+         type: request_method,
+         data: JSON.stringify( form_data ),
+         contentType: 'application/json; charset=utf-8',
+         dataType: 'json',
+         success: function( result ) {
+            if ( result.text ) {
+               $('#in_string').val( result.text )
+            }
+            $('#brion_pysin_form_submit').prop('disabled',false);
+         }
+      })
+   });
+
+});
+
+</script>
+
+</html>

@@ -1,0 +1,3 @@
+номер {message_num} от {sender} Заголовок {subject}
+заголовок сообщения номер {message_num} такой {subject} Он от {sender}
+сообщение номер {message_num} от {sender} Его заголовок {subject}

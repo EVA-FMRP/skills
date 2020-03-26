@@ -1,0 +1,3 @@
+(dia|dia útil|fim de semana)
+(segunda | as segundas | terças | as terças | quartas | as quartas | quintas | as quintas | as sextas | os viernes | sábado | os sábados | domingo | os domingos)
+(segunda | as segundas | terças | as terças | quartas | as quartas | quintas | as quintas | as sextas | os viernes | sábado | os sábados | domingo | os domingos) e (segunda | as segundas | terças | as terças | quartas | as quartas | quintas | as quintas | as sextas | os viernes | sábado | os sábados | domingo | os domingos)

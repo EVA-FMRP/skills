@@ -1,0 +1,3 @@
+((zet|draai|schakel) )?(?P<Action>aan|uit|in|om) (?P<Entity>.*)
+((draai|zet|schakel) )?(?P<Action>aan|uit|in|om) (?P<Entity>alle|elk|de) (?P<Domain>schakelaar(s)?|licht(en)|(boolean )?input(s)?)
+((draai|zet|schakel) )?(?P<Entity>.*) (?P<Action>aan|uit)

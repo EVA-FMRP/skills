@@ -1,0 +1,27 @@
+{
+    "skillMetadata": {
+        "sections": [
+            {
+                "name": "Account Information",
+                "fields": [
+                    {
+                        "type": "label",
+                        "label": "Enter your registered <a href='https://www.pandora.com' target='_top'>Pandora</a> account email and password.  If you don't have a Pandora account, you can create one for free."
+                    },
+                    {
+                        "name": "email",
+                        "type": "email",
+                        "label": "Pandora Email",
+                        "value": ""
+                    },
+                    {
+                        "name": "password",
+                        "type": "password",
+                        "label": "Password",
+                        "value": ""
+                    }
+                ]
+            }
+        ]
+    }
+}

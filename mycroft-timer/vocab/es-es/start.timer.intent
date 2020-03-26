@@ -1,0 +1,12 @@
+(Empieza|Establece|Crea|Comienza|Necesito|Dame) (un|otro|un segundo) temporizador
+(Empieza|Establece|Crea|Comienza|Necesito|Dame) (un|otro|un segundo) temporizador en (##-segundo|##-hora|##-minuto)
+(Empieza|Establece|Crea|Comienza|Necesito|Dame) (un|otro|un segundo) temporizador en (##-segundo|##-hora|##-minuto) (llamado|con nombre|de nombre) {name}.
+(Empieza|Establece|Crea|Comienza|Necesito|Dame) (un|otro|un segundo) temporizador de {duration}
+(Empieza|Establece|Crea|Comienza|Necesito|Dame) (un|otro|un segundo) temporizador de {duration} (llamado|con nombre|de nombre) {name}.
+(Empieza|Establece|Crea|Comienza|Necesito|Dame) (un|otro|un segundo) temporizador de {duration}
+Temporizador de {duration} (de duración|).
+Temporizador de {duration} (llamado|de nombre|con nombre|para) {name}.
+Temporizador de {duration}.
+temporizador de {duration} (llamado|de nombre|con nombre|para) {name}.
+Cuenta {duration}.
+Avisame en {duration}.

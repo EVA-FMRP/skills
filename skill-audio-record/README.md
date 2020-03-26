@@ -1,16 +1,17 @@
-# <img src='https://rawgithub.com/FortAwesome/Font-Awesome/master/advanced-options/raw-svg/solid/microphone.svg ' card_color='#22a7f0' width='50' height='50' style='vertical-align:bottom'/> Audio Recorder
-Record audio and play it back
+# <img src='https://raw.githack.com/FortAwesome/Font-Awesome/master/svgs/solid/microphone.svg' card_color='#22a7f0' width='50' height='50' style='vertical-align:bottom'/> Audio Recorder
 
-## About 
-This Skill records audio from the microphone that is set for Mycroft, and allows you to play back the recorded audio. This Skill is particularly useful when trying to diagnose microphone and recording issues, because it allows you to "hear" what Mycroft is hearing. 
+Record and playback audio
 
-## Examples 
-* "Record"
-* "Play"
-* "Stop"
-* "Cancel"
+## About
+This Skill records audio from the microphone and allows you to play back that recording. This Skill is particularly useful when trying to diagnose microphone issues, because it allows you to "hear" what Mycroft is hearing.
 
-## Credits 
+## Examples
+* "Start recording"
+* "Start recording for 40 minutes"
+* "Play the recording"
+* "Erase recording"
+
+## Credits
 Mycroft AI (@MycroftAI)
 
 ## Category

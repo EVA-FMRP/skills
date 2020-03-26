@@ -1,0 +1,69 @@
+{
+    "skillMetadata": {
+        "sections": [
+            {
+                "name": "Spotify Account",
+                "fields": [
+                    {
+                        "type": "label",
+                        "value": "",
+                        "label": "You must have a Spotify Premium account to access music.  Provide your Spotify username/password and then Connect with the button below.<p/>"
+                    },
+                    {
+                        "name": "user",
+                        "type": "text",
+                        "label": "Username",
+                        "value": "",
+                        "placeholder": "Spotify username"
+                    },
+                    {
+                        "name": "password",
+                        "type": "password",
+                        "label": "Password",
+                        "value": ""
+                    },
+          {
+            "type": "label",
+            "value": "",
+            "label": "Click the Save button, then use the Connect button to authorize with Spotify.<p/>"
+          },
+          {
+            "name": "Spotify",
+            "type": "oauth",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "name": "Remote Control Device",
+        "fields": [
+          {
+            "type": "label",
+            "value": "",
+            "label": "Playback normally occurs using Mycroft's speaker.  You can also use another Spotify device for playback and remotely control it using Mycroft.<p/>"
+          },
+          {
+            "name": "default_device",
+            "type": "text",
+            "label": "Spotify device",
+            "value": "",
+            "placeholder": "default (Mycroft's speaker)"
+          },
+          {
+            "type": "label",
+            "value": "",
+            "label": "Pause remote music when Mycroft is listening or talking.<p/>"
+          },
+          {
+            "name": "use_ducking",
+            "type": "checkbox",
+            "label": "Auto-pause",
+            "value": "false",
+            "placeholder": ""
+          }
+        ]
+      }
+    ]
+  }
+}
+
