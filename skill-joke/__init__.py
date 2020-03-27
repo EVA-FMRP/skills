@@ -33,7 +33,7 @@ class JokingSkill(MycroftSkill):
         super(JokingSkill, self).__init__(name="JokingSkill")
 
     def speak_joke(self, lang, category):
-        self.speak(random.choice(jokes[lang]))
+        self.speak(choice(jokes[lang]))
 
     @intent_handler(IntentBuilder("JokingIntent").require("Joke"))
     def handle_general_joke(self, message):
