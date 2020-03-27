@@ -22,6 +22,10 @@ from random import choice
 
 
 joke_types = ['chuck', 'neutral']
+jokes = {
+    'pt': ['O que o tomate foi fazer no banco? Tirar extrato!',
+          'Qual o doce preferido do átomo? Pé de moleque']
+}
 
 
 class JokingSkill(MycroftSkill):
@@ -29,7 +33,7 @@ class JokingSkill(MycroftSkill):
         super(JokingSkill, self).__init__(name="JokingSkill")
 
     def speak_joke(self, lang, category):
-        self.speak(pyjokes.get_joke(language=lang, category=category))
+        self.speak(random.choice(jokes[lang]))
 
     @intent_handler(IntentBuilder("JokingIntent").require("Joke"))
     def handle_general_joke(self, message):
