@@ -24,7 +24,7 @@ from random import choice
 joke_types = ['chuck', 'neutral']
 jokes = {
     'pt': ['O que o tomate foi fazer no banco? Tirar extrato!',
-          'Qual o doce preferido do átomo? Pé de moleque']
+          'Qual o doce preferido do átomo? Pé-de-moléculas']
 }
 
 
